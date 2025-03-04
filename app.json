@@ -10,7 +10,7 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "254743706010;𝐒𝐈𝐋𝐕𝐀 𝐌𝐃 𝐁𝐎𝐓"
+      "value": "254704897825"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -20,7 +20,7 @@
     "SESSION_ID": {
       "description": "your session id. get session here https://silva-session-selector.vercel.app/",
       "required": true,
-      "value": ""
+      "value": "Silva~UtRiHDAL#pMbdQxOFbOWwRJSSi3AgsTEvxegNxdc3KA5ANqpzAkw"
     },
     "MODE": {
       "description": "mode public or private",
@@ -70,7 +70,7 @@
     "STATUS_MSG": {
       "description": "custmize with your message",
       "required": false,
-      "value": "SILVA MD BOT SUCCESSFULLY VIEWED YOUR STATUS 💖💚"
+      "value": "TREKKER2 BOT SUCCESSFULLY VIEWED YOUR STATUS 💖💚"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
