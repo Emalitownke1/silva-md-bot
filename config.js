@@ -23,9 +23,9 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number her
 
-global.mods = ['254704897825', '254704897825']
-global.prems = ['254704897825', '254704897825', '254755267907']
-global.allowed = ['254704897825', '254704897825']
+global.mods = '254704897825'
+global.prems = '254704897825'
+global.allowed = '254704897825'
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
